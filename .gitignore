@@ -1,2 +1,4 @@
 lib/config.js
 node_modules
+**.sw*
+**.log
